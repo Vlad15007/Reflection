@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{EB4F79F6-1404-4E03-A3E4-F311715DE01A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly", "Assembly\Assembly.csproj", "{DA357B05-F5ED-4581-9776-C988E31D7816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lada", "Lada\Lada.csproj", "{1FD264B9-05A2-4D63-A5A9-4F9AD5731875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4F79F6-1404-4E03-A3E4-F311715DE01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4F79F6-1404-4E03-A3E4-F311715DE01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4F79F6-1404-4E03-A3E4-F311715DE01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4F79F6-1404-4E03-A3E4-F311715DE01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA357B05-F5ED-4581-9776-C988E31D7816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA357B05-F5ED-4581-9776-C988E31D7816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA357B05-F5ED-4581-9776-C988E31D7816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA357B05-F5ED-4581-9776-C988E31D7816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD264B9-05A2-4D63-A5A9-4F9AD5731875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD264B9-05A2-4D63-A5A9-4F9AD5731875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD264B9-05A2-4D63-A5A9-4F9AD5731875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD264B9-05A2-4D63-A5A9-4F9AD5731875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2765C0B9-2DB0-4896-B406-8680DEE8B2AE}
+	EndGlobalSection
+EndGlobal
